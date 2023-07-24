@@ -1,6 +1,5 @@
 
 # Olá! Eu sou o Luan Camargo, Desenvolvedor Back-end | Desenvolvedor de Software | .NET | .NET Core | ASP.NET | C# | PHP | Python | SQL Server | MySQL
-Graduando em Ciência da Computação! <br>
 
 Majoring in Computer Science! <br>
 
