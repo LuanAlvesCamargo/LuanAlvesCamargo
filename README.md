@@ -10,6 +10,4 @@ Majoring in Computer Science! <br>
   <img align="center" alt="Luan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   </div>
 
-  <div style="display: inline_block"><br>
-	<1mg align="center" alt="Luan-Csharp" height="30" width="40" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
-  </div>
+ 
