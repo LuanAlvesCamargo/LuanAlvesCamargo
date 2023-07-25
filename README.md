@@ -1,4 +1,4 @@
-# Hello there! 👋 I'm Luan Camargo, a Back-end Developer | Software Developer | .NET Enthusiast | C# Lover | PHP Enthusiast | Python Enthusiast | SQL Server & MySQL Aficionado. Currently pursuing a major in Computer Science! 🎓
+# Hello there! 👋 I'm Luan Camargo, a Back-end Developer | Software Developer | .NET | C# | PHP | Python | SQL Server & MySQL. Currently pursuing a major in Computer Science! 🎓
 
 ## Technologies I Work With
 
