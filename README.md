@@ -15,21 +15,3 @@ Majoring in Computer Science! <br>
   <img align="center" alt=".NET" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg">
 </div>
 
-## Project Overview
-
-[Include a brief overview of your project, its purpose, and key features.]
-
-## How to Use
-
-[Provide instructions on how to set up and run the project on the user's local machine.]
-
-## Contributing
-
-[Include guidelines for contributors if you welcome contributions to your project.]
-
-## License
-
-[Specify the license under which your project is distributed. For example, you can use MIT License.]
-
-[Add any other relevant sections, such as credits, acknowledgments, etc., based on your project's needs.]
-
