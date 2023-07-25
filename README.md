@@ -3,16 +3,20 @@
 
 Majoring in Computer Science! <br>
 
+# My Project Title
+
+[Project Description]
+
 ## Technologies Used
 
 <div style="display: inline-block">
   <img align="center" alt="C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt=".NET" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg">
   <img align="center" alt="NET Core" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net-core/dot-net-core-original.svg">
   <img align="center" alt="ASP.NET" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aspnetcore/aspnetcore-original.svg">
-  <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 </div>
 
 ## Project Overview
@@ -32,5 +36,3 @@ Majoring in Computer Science! <br>
 [Specify the license under which your project is distributed. For example, you can use MIT License.]
 
 [Add any other relevant sections, such as credits, acknowledgments, etc., based on your project's needs.]
-
-
