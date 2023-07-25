@@ -13,6 +13,5 @@
 </div>
 <br>
 
-![Luan's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuanAlvesCamargo&show_icons=true&theme=transparent)
 
 Feel free to explore my repositories and projects! If you have any questions or want to collaborate on something exciting, don't hesitate to reach out. Happy coding! 🚀
