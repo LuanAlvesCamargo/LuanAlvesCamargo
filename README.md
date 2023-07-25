@@ -19,8 +19,5 @@ Majoring in Computer Science! <br>
 
 
 
-<picture>
-  <source
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)/>
 
-</picture>
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
