@@ -1,4 +1,4 @@
-# Hello there! 👋 I'm Luan Camargo, a Back-end Developer | Software Developer | .NET | C# | PHP | Python | SQL Server & MySQL. Currently pursuing a major in Computer Science! 🎓
+# Hello there! 👋 I'm Luan Camargo, a Back-end Developer | Software Developer | .NET Enthusiast | C# Lover | PHP Enthusiast | Python Enthusiast | SQL Server & MySQL Aficionado. Currently pursuing a major in Computer Science! 🎓
 
 ## Technologies I Work With
 
@@ -13,5 +13,6 @@
 </div>
 <br>
 
+![Luan's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuanAlvesCamargo&show_icons=true&theme=transparent)
 
 Feel free to explore my repositories and projects! If you have any questions or want to collaborate on something exciting, don't hesitate to reach out. Happy coding! 🚀
